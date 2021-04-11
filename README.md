@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-1. Vehicle weight, spoiler_angle and AWD have a non-random amount of variance.Ground_clearance and vehicle_length have the amount of random variance
+1. vehicle_length and Ground_clearance have the amount of random variance. Vehicle weight, spoiler_angle and AWD have a non-random amount of variance.
 2. P-value is 0.05>5.35e-11 so our slope is not zero
 3. Depends on R-squared
 
