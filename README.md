@@ -23,11 +23,18 @@
 
 - Values of PSI of Lot 1 and Lot 2 are not very different from the population mean whereas Lot 3 suspension coil is different from the population mean.
 
+### Sample
 ![SansPM](https://github.com/maddalisushmitha/MechaCar_Statistical_Analysis/blob/main/images_for_readme/Pandmean.png)
+
+### Lot1
 
 ![Lot1](https://github.com/maddalisushmitha/MechaCar_Statistical_Analysis/blob/main/images_for_readme/Lot1.png)
 
+### Lot2
+
 ![Lot2](https://github.com/maddalisushmitha/MechaCar_Statistical_Analysis/blob/main/images_for_readme/Lot2.png)
+
+### Lot3
 
 ![Lot3](https://github.com/maddalisushmitha/MechaCar_Statistical_Analysis/blob/main/images_for_readme/Lot3.png)
 
@@ -35,8 +42,8 @@
 
 - MPG, comfort of the car, engine, tires are the metrics for consumer decision. 
 - Null hypothesis is our company and the competitors are not different in customer attraction and the alternative is we provide different but best customer experience.
--We can perform t-test with the competitors vechical data.
-- Our t-test is conducted on means of all competitor.
+- We can perform t-test with the competitors vechical data.
+- t-test is conducted on means of all competitor.
 
 
 
