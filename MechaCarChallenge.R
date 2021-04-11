@@ -1,9 +1,9 @@
 #Deliverable 1
 library(dplyr)
 df <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
-lm(vehicle_length ~ mpg + vehicle_weight + spoiler_angle + ground_clearance + AWD , data=df)
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD , data=df)
 
-summary(lm(vehicle_length ~ mpg + vehicle_weight + spoiler_angle + ground_clearance + AWD , data=df))
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD , data=df))
 
 #Deliverable 2
 Suspension_Coil_data <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
